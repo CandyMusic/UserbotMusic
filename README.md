@@ -121,10 +121,5 @@ Command | Description
 • !ep / !export | Export the queue for import in future
 • !stop / !leave | Leave from vc and clear the queue
 
-## 🗣 <a name="languages"></a>Languages
-
-```text
-en    English
-```
 
 

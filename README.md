@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Music Player ⭐️</b></h1>
+<h1 align= center><b>⭐️ Userbot Music Player ⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/stars/AsmSafone/MusicPlayer?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/watchers/AsmSafone/MusicPlayer?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/commit-activity/w/AsmSafone/MusicPlayer?style=for-the-badge" alt="Commit Activity">
-    <img src="https://img.shields.io/github/issues/AsmSafone/MusicPlayer?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/issues/Candy/UserbotMusic?style=for-the-badge" alt="Issues">
 </p>
 
 ## ✨ <a name="features"></a>Features
@@ -92,7 +92,7 @@ $ sudo docker run musicplayer
 
 - `API_ID`: Telegram app id.
 - `API_HASH`: Telegram app hash.
-- `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@AsmSafone/genStr).
+- `SESSION`: Pyrogram string session. You can generate from [here](https://t.me/StringGeneratorRobot).
 - `SUDOERS`: ID of sudo users (separate multiple ids with space).
 - `QUALITY`: Custom stream quality for the userbot in vc. Default: `high`
 - `PREFIX`: Commad prefixes (separate multiple prefix with space). Eg: `! /`
@@ -127,23 +127,4 @@ Command | Description
 en    English
 ```
 
-## 💜 <a name="contribute"></a>Contribute
 
-New languages, bug fixes and improvements following
-[our contribution guidelines](./CONTRIBUTING.md) are warmly welcomed!
-
-## 🛫 <a name="supports"></a>Supports
-
-For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
-
-## ✨ <a name="credits"></a>Credits
-
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
-
-## 📃 <a name="license"></a>License
-
-Music Player is licenced under the GNU Affero General Public License v3.0.
-Read more [here](./LICENSE).
